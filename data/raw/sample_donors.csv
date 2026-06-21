@@ -1,0 +1,4 @@
+donor_id,age,state,channel,income
+10001,45,VA,Email,High
+10002,62,CA,Phone,Medium
+10003,38,NY,Web,Low
