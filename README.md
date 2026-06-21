@@ -1,6 +1,5 @@
-# Donor Intelligence & Fundraising Optimization Platform
+# Donor Intelligence & Fundraising Optimization Platform Project.
 
-Senior Data Scientist Portfolio Project
 
 ## Overview
 End-to-end fundraising analytics platform for organizations such as nonprofit, advocacy,
